@@ -1,0 +1,23 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+# vai funcionar para todos os edtores e arquivos direto
+root = true
+
+# Unix-style newlines with a newline ending every file
+
+# Vai ser olhado todos os arquivos 
+[*]
+# escolher para ser espaço ou tab, vai ser espaço - padrão do airbnb
+indent_style = space  
+# número de espaços - definido pelo airbnb
+indent_size = 2   
+# definir o fim de linha
+end_of_line = lf  
+# Configuração das letras
+charset = utf-8  
+# será apagado toda linha com espaço vazio que não seja útil, exemplo, se colocar uns espaçoes no final de uma linha, na hora de salvar, esses espaços serão tirados. 
+trim_trailing_whitespace = true  
+# colocar uma linha no final do arquivo, padrão seguido por todos os styleguides 
+insert_final_newline = true   
+

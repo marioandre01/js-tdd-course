@@ -1,6 +1,5 @@
 {
   "name": "js-tdd-course",
-  "version": "1.0.0",
   "description": "Nossa biblioteca do curso deJS com TDD na prática\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[DjS com TDD na prática",
   "main": "index.js",
   "scripts": {
